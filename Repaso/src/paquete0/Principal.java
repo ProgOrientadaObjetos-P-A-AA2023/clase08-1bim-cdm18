@@ -153,7 +153,7 @@ public class Principal {
         if (c == null) {
             System.out.println("Jugador no encontrado");
         }else {
-            System.out.printf("Jugador encontrado");
+            System.out.println("Jugador encontrado");
         }
    
     }
